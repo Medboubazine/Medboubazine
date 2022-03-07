@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+
+```php
+
+class Profile {
+     public function main(){
+          return [
+                "name"=>"boubazine mohammed",
+                "email"=>"mohamedtorino161@gmail.com",
+                "education"=>"Youtube University 😁",
+          ];
+     }
+     public function social_media_links(){
+          return [
+                "facebook"=>"https://www.facebook.com/boubazine.mohammed.dz"
+          ];
+     }
+}
+xx
+x
+```
+
+
 <!--
 **Medboubazine/Medboubazine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
