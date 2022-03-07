@@ -14,7 +14,9 @@ class Profile {
      public function social_media_links(){
           return [
                 "facebook"=>"https://www.facebook.com/boubazine.mohammed.dz"
+                "instagram"=>"https://www.intagram.com/medboubazine"
           ];
+
      }
 }
 xx
