@@ -4,6 +4,7 @@
 ```php
 
 class Profile {
+     //PUBLIC INFORMATIONS
      public function main(){
           return [
                 "name"=>"boubazine mohammed",
@@ -11,16 +12,27 @@ class Profile {
                 "education"=>"Youtube University 😁",
           ];
      }
+     //MY SKILLS
+     public function skills(){
+         return [
+                "languages"=>["php ❤️","JavaScript 🧑‍💻"],
+                "frameworks"=>["laravel 🤗"],
+                "databases"=>["mysql"],
+         ];
+     }
+     //MY SOCIAL MEDIA LINKS
      public function social_media_links(){
           return [
                 "facebook"=>"https://www.facebook.com/boubazine.mohammed.dz"
-                "instagram"=>"https://www.intagram.com/medboubazine"
+                "instagram"=>"https://www.instagram.com/medboubazine"
           ];
-
      }
 }
-xx
-x
+
+
+
+
+
 ```
 
 
