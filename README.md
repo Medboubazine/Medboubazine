@@ -1,4 +1,4 @@
-### Hi THER 👋 , WELCOME IN MY HOUSE
+### Hi THERE 👋 , WELCOME IN MY HOUSE
 
 
 ```php
