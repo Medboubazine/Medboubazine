@@ -23,7 +23,7 @@ class Profile {
      //MY SOCIAL MEDIA LINKS
      public function social_media_links(){
           return [
-                "facebook"=>"https://www.facebook.com/boubazine.mohammed.dz",
+                "facebook"=>"https://www.facebook.com/medboubazine.one",
                 "instagram"=>"https://www.instagram.com/medboubazine",
           ];
      }
