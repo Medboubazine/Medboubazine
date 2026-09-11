@@ -32,6 +32,7 @@ class Profile {
                 [
                     "name"=>"DigitalShop",
                     "description"=>"Shop for selling digital products",
+                    "status"=> "COMPLETED",
                     "features"=>[
                          "Admin: Clean and easy admin dashboard",
                          "User: "Friendly user interface",
