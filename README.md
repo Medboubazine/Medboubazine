@@ -26,6 +26,20 @@ class Profile {
                 "website"=>"https://medboubazine.dev",
           ];
      }
+     //MY CURRENT PROJECTS
+     public function projects(){
+          return [
+                [
+                    "name"=>"DigitalShop",
+                    "description"=>"Shop for selling digital products",
+                    "features"=>[
+                         "Admin: Clean and easy admin dashboard",
+                         "User: "Friendly user interface",
+                         "Delivery API: Your customers can buy using API",
+                    ],
+                ],
+          ];
+     }
 }
 
 
